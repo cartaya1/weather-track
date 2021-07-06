@@ -56,7 +56,7 @@ function currentWeather(userInput) {
                 colorUV = "green";
             } else if (UV >= 3 & UV <= 6) {
                 colorUV = "yellow";
-            } else if (UV >= 6 & UV <= 8) {
+            } else if (UV >= 6 & UV <= 9) {
                 colorUV = "orange";
             } else {
                 colorUV = "red";
